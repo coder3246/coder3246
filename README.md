@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nirvaan, a passionate coder eager to explore the vast world of open-source communitiy.
+I'm Nirvaan, a passionate coder eager to explore the vast world of open-source.
 
 ## About Me
 
