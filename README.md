@@ -1,16 +1,29 @@
 ### Hi there 👋
+I'm Nirvaan, a passionate coder eager to explore the vast world of open-source communitiy.
 
-<!--
-**coder3246/coder3246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🚀 Excited to learn new technologies and frameworks.
+- 💻 Interested in web development, startups, and entrepreneurship.
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm diving deep into:
+
+- 🌐 Web development: Building responsive and dynamic websites.
+- 📈 Learning about startups and entrepreneurship.
+- 🤖 Exploring game develpment and automation.
+
+## Goals for the Future
+
+- 💡 Build innovative software that solve real-world problems.
+- 🚀 Launch my own startup and make a positive impact to the world.
+- 🌱 Contribute to open-source projects and give back to the community.
+
+## Ask Me About
+
+I'm always happy to discuss:
+
+- 💬 Web development tips and tricks.
+- 💡 Startup ideas and innovation.
+
+
